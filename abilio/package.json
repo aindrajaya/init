@@ -1,0 +1,14 @@
+{
+  "name": "abilio",
+  "version": "1.0.0",
+  "description": "abilio first initiation projek using javascript and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cobain"
+  ],
+  "author": "abilio",
+  "license": "ISC"
+}
