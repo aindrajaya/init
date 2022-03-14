@@ -1,0 +1,14 @@
+{
+  "name": "anismaulidah",
+  "version": "1.0.0",
+  "description": "anis first initation project using javascript and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "anismaulidah",
+  "license": "ISC"
+}
