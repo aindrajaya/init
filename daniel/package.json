@@ -1,0 +1,14 @@
+{
+  "name": "daniel",
+  "version": "1.0.0",
+  "description": "projek pertama dengan javascript dan node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "halo"
+  ],
+  "author": "daniel",
+  "license": "ISC"
+}
