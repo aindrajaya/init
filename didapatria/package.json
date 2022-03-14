@@ -1,0 +1,14 @@
+{
+  "name": "didapatria",
+  "version": "1.0.0",
+  "description": "dida first initation project using javascript and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "init"
+  ],
+  "author": "didapatria",
+  "license": "ISC"
+}
