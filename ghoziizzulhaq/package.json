@@ -1,0 +1,14 @@
+{
+  "name": "ghoziizzulhaq",
+  "version": "1.0.0",
+  "description": "ghozi firs initiation project using javascript and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kata-kata"
+  ],
+  "author": "ghoziizzulhaq",
+  "license": "ISC"
+}
