@@ -1,4 +1,4 @@
-const fs = require('fs');
+const fs = require("fs");
   
 const isiTulisan = 
 '<html lang="en">
@@ -9,7 +9,6 @@ const isiTulisan =
     <title>Document</title>
 </head>
 <body>
-    
 </body>
 </html>';
   
