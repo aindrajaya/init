@@ -11,5 +11,8 @@
     "init"
   ],
   "author": "devina",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  }
 }
