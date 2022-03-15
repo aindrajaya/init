@@ -1,4 +1,4 @@
-const fs = require('fs');
+const fs = require("fs");
 
 const isiKonten = `
 <!DOCTYPE html>
@@ -15,7 +15,7 @@ const isiKonten = `
 </html>
 `;
 
-fs.writeFileSync('coba.html', isiKonten, function(err) {
+fs.writeFileSync("coba.html", isiKonten, function(err) {
     if (err) throw err;
-    console.log('File Created');
+    console.log("File Created");
 });
