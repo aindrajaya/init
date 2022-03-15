@@ -1,4 +1,4 @@
-const fs = require('fs');
+import { writeFile } from "fs";
 
 
 const isikonten = 
@@ -16,8 +16,8 @@ const isikonten =
 </body>
 </html>`;
 
-fs.writeFile('coba.html', isikonten, function(err){
+writeFile("coba.html", isikonten, function(err){
 
   if(err) throw err;
-  console.log('File Created');
+  console.log("File Created");
 });
