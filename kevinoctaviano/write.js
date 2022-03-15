@@ -1,4 +1,4 @@
-const fs = require('fs');
+const fs = require("fs");
 
 // isi konten
 const html = `<!DOCTYPE html>
@@ -16,8 +16,8 @@ const html = `<!DOCTYPE html>
 </body>
 
 </html>`;
-const filePath = './index.html';
+const filePath = "./index.html";
 
-fs.writeFileSync(filePath, html, 'utf-8');
+fs.writeFileSync(filePath, html, "utf-8");
 
 
