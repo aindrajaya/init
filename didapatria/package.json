@@ -10,5 +10,9 @@
     "init"
   ],
   "author": "didapatria",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.11.0",
+    "prettier": "2.5.1"
+  }
 }
