@@ -1,4 +1,4 @@
-const fs = require('fs');
+const fs = require("fs");
 const data = `
 <!DOCTYPE html>
 <html lang="en">
@@ -12,10 +12,10 @@ const data = `
     
 </body>
 </html>
-`
+`;
 
-fs.writeFile('index.html', data, function(err){
+fs.writeFile("index.html", data, function(err){
     if(err) throw err;
-    console.log(data.toString('utf-8'));
+    console.log(data.toString("utf-8"));
 
 });
