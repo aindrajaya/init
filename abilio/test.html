@@ -1,7 +1,4 @@
-const fs = require("fs");
-
-const content = 
-`<!DOCTYPE html>
+<!DOCTYPE html>
     <html lang="en">
 
     <head>
@@ -11,11 +8,6 @@ const content =
     <title>Document</title>
     </head>
         <body>
-            <h1>Goodbye world</h1>
+            <h1>Hello World</h1>
         </body>
-    </html>`;
-
-fs.writeFile("test.html", content, function(err) {
-    if (err) throw err;
-    console.log("The file has been created!");
-});
+    </html>

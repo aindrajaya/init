@@ -10,5 +10,8 @@
     "cobain"
   ],
   "author": "abilio",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  }
 }
