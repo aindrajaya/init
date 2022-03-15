@@ -1,7 +1,8 @@
 const fs = require("fs");
   
-const isiTulisan = 
-'<html lang="en">
+const isiTulisan = `
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,7 +11,8 @@ const isiTulisan =
 </head>
 <body>
 </body>
-</html>';
+</html>
+`;
   
 fs.writeFile("nulis.html", isiTulisan, (err) => {
   if (err)
