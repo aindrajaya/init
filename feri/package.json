@@ -1,20 +1,14 @@
 {
-  "name": "package.json",
+  "name": "feri",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
-  "type":"module",
+  "description": "desc",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alfajri23/Binar_Chapter2.git"
-  },
-  "author": "feri",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/alfajri23/Binar_Chapter2/issues"
-  },
-  "homepage": "https://github.com/alfajri23/Binar_Chapter2#readme"
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  }
 }
