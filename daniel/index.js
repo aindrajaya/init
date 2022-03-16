@@ -14,12 +14,13 @@ let html =
     <title>Document</title>
 </head>
 <body>
-    <div style="background-color: red">
-        <h1>Ini bentuk HTML ya gaes</h1>
+    <div style="background-color: blue">
+        <h1>Halaman HTML</h1>
     </div>
 </body>
 </html>
 `
 app.get('/', (req, res) => res.send(html));
+app.get('/halaman2', (req, res) => res.send(data));
 
 app.listen(port, () => console.log(`This example App listening at http://localhost:${port}`));
