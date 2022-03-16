@@ -1,5 +1,5 @@
-const fs = require('fs');
-const path = require('path');
+const fs = require("fs");
+const path = require("path");
 
 const isiKonten = `<html lang="en">
 <head>
@@ -13,7 +13,7 @@ const isiKonten = `<html lang="en">
 </body>
 </html>`;
 
-fs.writeFile('coba-nodejs.html', isiKonten, function(err) {
+fs.writeFile("coba-nodejs.html", isiKonten, function(err) {
   if(err) throw err;
-  console.log('File html Created');
+  console.log("File html Created");
 });
