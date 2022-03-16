@@ -1,0 +1,16 @@
+{
+  "name": "agungadityatama",
+  "version": "1.0.0",
+  "description": "Agung first commit with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "halo",
+    "saya",
+    "agung"
+  ],
+  "author": "AgungAdityatama",
+  "license": "ISC"
+}
