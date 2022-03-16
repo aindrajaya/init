@@ -1,0 +1,22 @@
+{
+  "name": "rubenemanuel",
+  "version": "1.0.0",
+  "description": "ruben first initiation project using javascript and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "first",
+    "init",
+    "ruben"
+  ],
+  "author": "ruben emanuel",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
