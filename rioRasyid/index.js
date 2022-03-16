@@ -31,7 +31,7 @@ let html2 = `
 </head>
 <body>
     <div style="background-color: blue">
-        <h1>Hello, Rio Al Rasyid!</h1>
+        <h1>Hello, Rio Al Rasyid !</h1>
     </div>
 </body>
 </html>`;
