@@ -1,6 +1,12 @@
 # node modules
 node_modules
+<<<<<<< HEAD
 
 # lock file
 package-lock.json
 yarn.lock
+=======
+# lock file
+package-lock.json
+yarn.lock
+>>>>>>> 433d1f3804bc7f569533bbf175687b35b80a0ffe
