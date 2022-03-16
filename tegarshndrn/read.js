@@ -6,12 +6,14 @@
     //console.log(data.toJSON());
 //})
 
-var fs = require('fs');
-var http = require('http');
+// eslint-disable-next-line no-undef
+let fs = require("fs");
+// eslint-disable-next-line no-undef
+let http = require("http");
 http.createServer(function (request, response) {
-    fs.readFile('index.html', (err, data) => {
+    fs.readFile("index.html", (err, data) => {
         if (err) throw err;
-        response.writeHead(200, {'Content-Type': 'text/html'});
+        response.writeHead(200, {"Content-Type": "text/html"});
         response.write(data);
         response.end();
     });
