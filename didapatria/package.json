@@ -10,5 +10,16 @@
     "init"
   ],
   "author": "didapatria",
+<<<<<<< Updated upstream
   "license": "ISC"
+=======
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.11.0",
+    "prettier": "2.5.1"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+>>>>>>> Stashed changes
 }
