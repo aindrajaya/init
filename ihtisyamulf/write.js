@@ -1,4 +1,4 @@
-const fs = require('fs');
+const fs = require("fs");
 
 //Penamaan variable untuk js biasanya pakai camelCase
 const isiKonten = 
@@ -16,7 +16,7 @@ const isiKonten =
 </html>`;
 
 
-fs.writeFile('coba.html', isiKonten, function(err){
+fs.writeFile("coba.html", isiKonten, function(err){
         if(err) throw err;
-        console.log('file html Created');
+        console.log("file html Created");
     });
