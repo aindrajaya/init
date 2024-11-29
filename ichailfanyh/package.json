@@ -1,0 +1,15 @@
+{
+  "name": "ichaaa",
+  "version": "1.0.0",
+  "description": "coba npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "test npm"
+  },
+  "keywords": [
+    "apa",
+    "aja"
+  ],
+  "author": "ichailfanyh",
+  "license": "ISC"
+}
