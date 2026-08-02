@@ -1,0 +1,22 @@
+{
+  "name": "devinagunawan",
+  "version": "1.0.0",
+  "description": "devina first initiation project using javascript and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "first",
+    "init"
+  ],
+  "author": "devina",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3"
+  }
+}
