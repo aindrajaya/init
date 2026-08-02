@@ -1,0 +1,23 @@
+{
+    "name": "initbyjhon",
+    "version": "1.0.0",
+    "description": "first project with npm and js",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jhonmicc/init.git"
+    },
+    "keywords": [
+        "practice",
+        "javascript"
+    ],
+    "author": "jhonmicc",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jhonmicc/init/issues"
+    },
+    "homepage": "https://github.com/jhonmicc/init#readme"
+}
