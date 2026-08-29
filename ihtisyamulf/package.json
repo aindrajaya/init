@@ -1,0 +1,14 @@
+{
+  "name": "ihtisyamulf",
+  "version": "1.0.0",
+  "description": "ima first initiation project using javascript and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nature"
+  ],
+  "author": "Asyima37",
+  "license": "ISC"
+}
